@@ -1,4 +1,4 @@
-# Prueba técnica - Estudio Faser
+# Prueba técnica - Estudio 
 ## Instalación
 1. Hacer un fork de este repositorio en su cuenta de Github, que sea público.
 2. Clonar su fork en su equipo local.
